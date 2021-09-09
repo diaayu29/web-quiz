@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "Question" : "Urutan lapisan matahari dari hingga lapisan terluar adalah ...",
+    "answer" : "inti matahari, fotosfer, kromosfer, korona",
+    "choice_a" : "inti matahari, korona, fotosfer, kromosfer",
+    "choice_b" : "inti matahari, kromosfer, fotosfer, korona",
+    "choice_c" : "inti matahari, kromosfer, korona, fotosfer",
+    "choice_d" : "inti matahari, fotosfer, kromosfer, korona"
+  },
+  {
+    "id": 2,
+    "Question" : "Berikut yang termasuk produsen dalam ekosistem akuarium adalah..",
+    "answer" : "rumput laut",
+    "choice_a" : "ikan kecil",
+    "choice_b" : "rumput laut",
+    "choice_c" : "air",
+    "choice_d" : "kaca akuarium"
+  },
+  {
+    "id": 3,
+    "Question" : "Bambang menulis rancangan tugas proyeknya dibalik kertas bekas milik ayahnya, kegiatan ini menerapkan prinsip...",
+    "answer" : "reuse",
+    "choice_a" : "replay",
+    "choice_b" : "replace",
+    "choice_c" : "replace",
+    "choice_d" : "reuse"
+  },
+  {
+    "id": 4,
+    "Question" : "Berdasarkan struktur inti sel (ada atau tidaknya inti sel), makhluk hidup dibedakan menjadi 2 jenis, yaitu...",
+    "answer" : "eukariotik & prokariotik",
+    "choice_a" : "eukariotik & prokariotik",
+    "choice_b" : "prokariotik & megakariotik",
+    "choice_c" : "eukariotik & ultrakariotik",
+    "choice_d" : "eukariotik & nukleotik"
+  },
+  {
+    "id": 5,
+    "Question" : "Zat yang menyebabkan pencemaran disebut...",
+    "answer" : "polutan",
+    "choice_a" : "sampah",
+    "choice_b" : "polusi",
+    "choice_c" : "limbah",
+    "choice_d" : "polutan"
+  },
+  {
+    "id": 6,
+    "Question" : "Salah satu upaya pengendalian hama yang tidak menimbulkan pencemaran lingkungan adalah...",
+    "answer" : "pengendalian secara biologis",
+    "choice_a" : "menggunakan pestisida",
+    "choice_b" : "pengendalian secara biologis",
+    "choice_c" : "penyemprotan dengan insektisida",
+    "choice_d" : "pengedalian dengan herbisida"
+  },
+  {
+    "id": 7,
+    "Question" : "Skala Richter adalah...",
+    "answer" : "skala magnitudo yang sering digunakan",
+    "choice_a" : "skala magnitudo yang sering digunakan",
+    "choice_b" : "garis di sepanjang pusat gempa",
+    "choice_c" : "titik di permukaan bumi yang berada tepat di atas pusat gempa",
+    "choice_d" : "pusat gempa yang berada di dalam bumi"
+  },
+  {
+    "id": 8,
+    "Question" : "Planet Uranus adalah urutan planet ke-... dari matahari",
+    "answer" : "7",
+    "choice_a" : "5",
+    "choice_b" : "6",
+    "choice_c" : "4",
+    "choice_d" : "7"
+  },
+  {
+    "id": 9,
+    "Question" : "Sebagian besar gempa yang pernah terjadi di permukaan bumi disebabkan jenis gempa...",
+    "answer" : "tektonik",
+    "choice_a" : "buatan",
+    "choice_b" : "tektonik",
+    "choice_c" : "vulkanik",
+    "choice_d" : "runtuhan"
+  },
+  {
+    "id": 10,
+    "Question" : "Manakah pasangan yang tepat antara jaringan tumbuhan dan fungsinya pada gabungan pernyataan di bawah ini?",
+    "answer" : "Epidermis = melindungi palisade dan jaringan spon",
+    "choice_a" : "Bunga karang = melindungi mesofi",
+    "choice_b" : "Xilem = mengangkut hasil fotosintesis",
+    "choice_c" : "Epidermis = melindungi palisade dan jaringan spon",
+    "choice_d" : "Meristem = mempercepat pelapukan"
+  },
+  {
+    "id": 11,
+    "Question" : "Bentuk bumi pepat di kedua kutubnya dan menggembung di daerah kharulistiwa. Hal ini diakibatkan dari...",
+    "answer" : "rotasi bumi",
+    "choice_a" : "rotasi bumi",
+    "choice_b" : "gravitasi bumi",
+    "choice_c" : "revolusi bumi",
+    "choice_d" : "rotasi dan revolusi bumi"
+  },
+  {
+    "id": 12,
+    "Question" : "Lapisan atmosfer yang memiliki tekanan paling rendah adalah ...",
+    "answer" : "eksosfer",
+    "choice_a" : "stratosfer",
+    "choice_b" : "mesosfer",
+    "choice_c" : "eksosfer",
+    "choice_d" : "troposfer"
+  },
+  {
+    "id": 13,
+    "Question" : "Usaha untuk mengurangi pencemaran udara di kota-kota besar karena asap kendaraan bermotor adalah..",
+    "answer" : "mengurangi penggunaan bahan bakar fosil",
+    "choice_a" : "mengurangi penggunaan bahan bakar fosil",
+    "choice_b" : "membatasi tahun keluaran kendaraan bermotor",
+    "choice_c" : "menggunakan bahan bakar ramah lingkungan",
+    "choice_d" : "melarang semua kendaraan memasuki kota"
+  },
+  {
+    "id": 14,
+    "Question" : "Di bawah ini yang termasuk gas rumah kaca adalah...",
+    "answer" : "Karbondioksida, metana, CFC, nitrogen",
+    "choice_a" : "Metana, CFC, oksigen, uap air",
+    "choice_b" : "Karbondioksida, metana, CFC, ozon",
+    "choice_c" : "Karbondioksida, metana, CFC, nitrogen",
+    "choice_d" : "Karbondioksida, metana, CFC, oksigen"
+  },
+  {
+    "id": 15,
+    "Question" : "Penggunaan pupuk yang terus menerus akan mengakibatkan...​",
+    "answer" : "Berkurangnya hara tanah",
+    "choice_a" : "Tanah menjadi subur",
+    "choice_b" : "PH tanah meningkat",
+    "choice_c" : "Berkurangnya hara tanah",
+    "choice_d" : "Menurunnya hama penyakit"
+  },
+  {
+    "id": 16,
+    "Question" : "Fungsi lapisan ozon di atmosfer adalah...",
+    "answer" : "melindungi bumi dari sinar ultraviolet",
+    "choice_a" : "melindungi bumi dari cahaya matahari",
+    "choice_b" : "mengatur suhu bumi",
+    "choice_c" : "sebagai pemantul gelombang radio",
+    "choice_d" : "melindungi bumi dari sinar ultraviolet"
+  },
+  {
+    "id": 17,
+    "Question" : "Turunnya permukaan air laut akibat pengaruh dari proses naiknya permukaan air laut di tempat lain adalah...",
+    "answer" : "pasang surut",
+    "choice_a" : "pasang surut",
+    "choice_b" : "pasang naik",
+    "choice_c" : "pasang purnama",
+    "choice_d" : "pasang perbani"
+  },
+  {
+    "id": 18,
+    "Question" : "Salah satu akibat menipisnya lapisan ozon bagi kesehatan manusia adalah...",
+    "answer" : "meningkatnya penderita katarak",
+    "choice_a" : "meningkatnya penderita kanker kandungan",
+    "choice_b" : "meningkatnya penderita katarak",
+    "choice_c" : "meningkatnya penderita TBC",
+    "choice_d" : "kerusakan saraf pendengaran"
+  },
+  {
+    "id": 19,
+    "Question" : "Susunan litosfer dari dalam permukaan bumi hingga ke luar secara berurutan yaitu..",
+    "answer" : "inti dalam, inti luar, mantel bumi, kerak bumi",
+    "choice_a" : "inti dalam, inti luar, kerak bumi, mantel bumi",
+    "choice_b" : "inti dalam, inti luar, kerak bumi, atmosfer",
+    "choice_c" : "kerak bumi, mantel bumi, inti luar, inti dalam",
+    "choice_d" : "inti dalam, inti luar, mantel bumi, kerak bumi"
+  },
+  {
+    "id": 20,
+    "Question" : "Planet terestrial adalah nama lain untuk planet...",
+    "answer" : "dalam",
+    "choice_a" : "luar",
+    "choice_b" : "dalam",
+    "choice_c" : "galaksi",
+    "choice_d" : "astral"
+  }
+]
