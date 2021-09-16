@@ -1,5 +1,4 @@
 import React, {useState, useEffect} from 'react';
-import Timers from '../../Timer';
 import DataQuestion from './QuestionIPSDB.json'
 import Result from '../result';
 

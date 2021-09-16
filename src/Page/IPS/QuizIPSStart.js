@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from "react-router-dom";
 
-function ShowIPS(props) {
+function ShowIPS() {
   return (
     <div className = "StartPage bg-purpleLight h-screen md:flex">
         <div className = "ShowRules md:w-2/4 text-center my-auto pt-16 md:pt-0">

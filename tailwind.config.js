@@ -10,7 +10,10 @@ module.exports = {
           pinkLight: '#DA9FF9',
           buttonLight: '#52057B', 
       },
-      
+      screens: {
+        'tablet': '500px',
+        'tablet-sm': '425px'
+      }
     },
   },
   variants: {

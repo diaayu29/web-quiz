@@ -1,4 +1,3 @@
-import Timers from '../../Timer';
 import React, {useState, useEffect} from 'react';
 import DataQuestion from './QuestionIPADB.json';
 import Result from '../result';
