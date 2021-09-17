@@ -76,15 +76,19 @@ function ShowQuestionIPA() {
             if (seconds > 0) {
                 setSeconds(seconds - 1);
             }
-            if (seconds === 0) {
+              if (seconds === 0) {
                 if (minutes === 0) {
+                  if(getCount <= 20) {
+                    setCount(getCount + 1);
+                  } else {
                     ShowResultNilai()
+                  }
                     clearInterval(myInterval)
                 } else {
                     setMinutes(minutes - 1);
                     setSeconds(59);
                 }
-            } 
+              } 
         }, 1000)
         return ()=> {
             clearInterval(myInterval);

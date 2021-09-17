@@ -69,7 +69,7 @@ function ShowQuestionIPS() {
    }
 
    const Timers = (props) => {
-    const {initialMinute = 2,initialSeconds = 0} = props;
+    const {initialMinute = 0,initialSeconds = 5} = props;
     const [ minutes, setMinutes ] = useState(initialMinute);
     const [seconds, setSeconds ] =  useState(initialSeconds);
     useEffect(()=>{
@@ -79,7 +79,11 @@ function ShowQuestionIPS() {
             }
             if (seconds === 0) {
                 if (minutes === 0) {
+                  if(getCount <= 20) {
+                    setCount(getCount + 1);
+                  } else {
                     ShowResultNilai()
+                  }
                     clearInterval(myInterval)
                 } else {
                     setMinutes(minutes - 1);
