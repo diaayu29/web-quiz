@@ -69,7 +69,7 @@ function ShowQuestionIPS() {
    }
 
    const Timers = (props) => {
-    const {initialMinute = 0,initialSeconds = 5} = props;
+    const {initialMinute = 2,initialSeconds = 0} = props;
     const [ minutes, setMinutes ] = useState(initialMinute);
     const [seconds, setSeconds ] =  useState(initialSeconds);
     useEffect(()=>{
